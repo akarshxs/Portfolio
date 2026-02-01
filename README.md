@@ -1,8 +1,8 @@
 ![Logo](cp.png)
 
-# Amine Portfolio Showcase 💻
+# My Personal Portfolio Web💻
 
-Welcome to Amine's Portfolio Showcase!
+Welcome to my Portfolio Showcase!
 A modern and elegant personal portfolio website built to present my projects, skills, and professional journey using HTML, CSS, and JavaScript.
 ---
 
