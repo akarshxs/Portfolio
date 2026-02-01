@@ -57,8 +57,8 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
+- Email: xoxoakarsh@gmail.com   
+- Location: Uttar Pradesh, India  
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/akarshx/)  
 - GitHub: [GitHub](https://github.com/akarshxs)  
 - Instagram: [Instagram](https://www.instagram.com/akarshxs/?utm_source=ig_web_button_share_sheet)
